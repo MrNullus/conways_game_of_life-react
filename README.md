@@ -1,4 +1,4 @@
-# Conway's Game of Lif in React
+# Conway's Game of Life in React
 
 ### `npm start`
 
